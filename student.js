@@ -8,10 +8,10 @@ function StudentDetails(name, roll_no, className, section, marks) {
 
    // Example usage:
    let student = new StudentDetails(
-    "John",
-    123,
-    "10th",
-    "A",
+    "Rupesh",
+    1245861,
+    "12th",
+    "D",
     {
       science: 72,
       maths: 75,
